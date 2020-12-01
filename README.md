@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hola Amigos </h1>
+
 
 - 💬 Sophomore Student at Indian Institute of Information Technology, Sri City :briefcase:
 - 🔭 Computers have fascinated me since a young age.
