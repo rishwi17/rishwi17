@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hola Amigos </h1>
 
 
-- 💬 Sophomore Student at Indian Institute of Information Technology, Sri City :briefcase:
+- 💬 Junior Year Student at Indian Institute of Information Technology, Sri City :briefcase:
 - 🔭 Computers have fascinated me since a young age.
 - I’m interested in the fields of Web-Dev,Dev-Ops,Competitive Coding and many more ...
 - 🤔I'm actively looking for opportunities to learn new skills and help the coding community.
